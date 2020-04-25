@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "ja"
+title = "kawaguchi-design-blog"
+theme = "noteworthy"
+
+[params]
+    # Programming
+    github = "https://github.com/kawaguchi1102"
