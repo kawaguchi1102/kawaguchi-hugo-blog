@@ -57,6 +57,6 @@ huge();
 ## 詰まった箇所
 
 ### ログイン処理の実装
-1. CognitoのJavascript SDK amazon-cognito-identity-js で使用できる関数を理解していなかったのでSingIn実装時のエラー解消に時間を取られた。
+1. CognitoのJavascript SDK amazon-cognito-identity-js で使用できる関数を理解していなかったのでSignIn実装時のエラー解消に時間を取られた。
 2. ReactのPropsの挙動がしっかり理解できていなかったので、ログイン時、非ログイン時のコンポーネント表示処理の切り分けをするのに時間を取られた。
 
