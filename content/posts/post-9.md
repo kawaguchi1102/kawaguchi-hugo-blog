@@ -1,7 +1,7 @@
 ---
 title: "three.jsのIE対応で詰まったこと"
 date: 2020-05-21T22:22:22+09:00
-draft: true
+draft: false
 ---
 
 # three.jsのIE対応で詰まったこと

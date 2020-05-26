@@ -1,7 +1,7 @@
 ---
 title: "babel"
 date: 2020-05-19T22:30:10+09:00
-draft: true
+draft: false
 ---
 
 # ReactとBabel 7
