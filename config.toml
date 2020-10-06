@@ -6,3 +6,5 @@ theme = "noteworthy"
 [params]
     # Programming
     github = "https://github.com/kawaguchi1102"
+[params.assest]
+    customCSS = ["/css/custom.css"]
